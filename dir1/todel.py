@@ -8,7 +8,7 @@ def main():
     '''
     This is a test function
     '''
-    print 'Hi'
+    print 'Hi this is to test develop branch PR'
 
 
 if __name__ == '__main__':
